@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hello
+👋 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com)
 
-<!--
-**simp7/simp7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🖥 Current state: Serving as a social service worker
+- 🌱 I’m currently learning Golang(for backend), Swift(for iOS development), and Design Patterns
+- 📫 How to reach me: JHParkOfficial@protonmail.com
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-------
+# solved.ac
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bypro97)](https://solved.ac/bypro97/)
+
+-------
+# Github stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=simp7)](https://github.com/anuraghazra/github-readme-stats)
