@@ -1,5 +1,4 @@
-### Hello
-👋 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com)
+### Hello!
 
 - 🖥 Current state: Serving as a social service worker
 - 🌱 I’m currently learning Golang(for backend), Swift(for iOS development), and Design Patterns
