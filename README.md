@@ -3,7 +3,7 @@
 - 🖥 Current state: Serving as a social service worker
 - 🌱 I’m currently learning Golang(for backend), Swift(for iOS development), and Design Patterns
 - 📫 How to reach me: JHParkOfficial@protonmail.com
-
+- 💻 Job offer: I will look for a job in and after Nov 2021. Thank you
 
 -------
 # solved.ac
