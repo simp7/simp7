@@ -8,15 +8,15 @@
 -------
 # Portfolio
 
-## nonograminGo[https://github.com/simp7/nonograminGo]
+## [nonograminGo](https://github.com/simp7/nonograminGo)
 - Nonogram that can be played in CLI environment.
 - Made with golang
 
-## times[https://github.com/simp7/times]
+## [times](https://github.com/simp7/times)
 - Package for controlling times that can be used
 - Made with golang
 
-## wordReminder-core[https://github.com/simp7/wordReminder-core]
+## [wordReminder-core](https://github.com/simp7/wordReminder-core)
 - Core pacakge of word reminder for implementing into serveral platform.
 - Made with golang
 
