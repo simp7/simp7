@@ -1,7 +1,8 @@
 # Hello!
 
 - 🖥 Current state: Serving as a social service worker
-- 🌱 I’m currently learning Golang(for backend), Swift(for iOS development), and Design Patterns
+- 🌱 I’m currently learning golang and Swift.
+- 💪 As I focus on cleaner and simpler code, I'm interested in refactoring, SOLID, desgin pattern, and TDD.
 - 📫 How to reach me: JHParkOfficial@protonmail.com
 - 💻 Job offer: I will look for a job in and after Nov 2021. Thank you
 
