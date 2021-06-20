@@ -3,7 +3,7 @@
 - 🖥 Current state: Serving as a social service worker.
 - 🌱 I’m currently learning Golang, Swift, MongoDB.
 - 💪 As I focus on cleaner and simpler code, I'm interested in refactoring, SOLID, desgin pattern, and TDD.
-- 💻 Job offer: I will look for a job in and after Nov 2021. Thank you!
+- 💻 Job offer: Feel free to contact me. ⚠️ One thing You should consider is that I can work after 20 December. Thank you!
 - 📫 How to reach me: JHParkOfficial@protonmail.com
 
 # Skills
