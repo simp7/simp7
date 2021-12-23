@@ -3,13 +3,13 @@
 - 🖥 Current state: Serving as a social service worker.
 - 🌱 I’m currently learning Golang, Swift, MongoDB.
 - 💪 As I focus on cleaner and simpler code, I'm interested in refactoring, SOLID, desgin pattern, and TDD.
-- 💻 Job offer: Feel free to contact me. ⚠️ One thing You should consider is that I can work after 20 December. Thank you!
+- 💻 Job offer: Currently I'm on working, so I wouldn't get job offer currently. Thank you!
 - 📫 How to reach me: JHParkOfficial@protonmail.com
 
 # Skills
 
 - Language: <img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/> <img alt="Swift" src="https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white"/> <img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
-- field: Backend(Server), CLI, iOS
+- field: Backend(Server), CLI, Frontend(App)
 - Soft skill: OOP, TDD
 
 -------
