@@ -1,6 +1,6 @@
 # Hello!
 
-- 🖥 Current state: Serving as a social service worker.
+- 🖥 Current state: Working at Cavea
 - 🌱 I’m currently learning Golang, Swift, Javascript(with React Native) MongoDB.
 - 💪 As I focus on cleaner and simpler code, I'm interested in refactoring, SOLID, desgin pattern, and TDD.
 - 💻 Job offer: Currently I'm on working, so I wouldn't get job offer currently. Thank you!
