@@ -35,7 +35,7 @@
 -------
 # Github stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=simp7)](https://github.com/anuraghazra/github-readme-stats)
+![simp7 GitHub Stats](https://server.dooboo.io/github-stats/simp7)
 
 -------
 # solved.ac
