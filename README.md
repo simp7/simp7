@@ -35,7 +35,7 @@
 -------
 # Github stats
 
-![simp7 GitHub Stats](https://server.dooboo.io/github-stats/simp7)
+![](https://stats.hyochan.dev/api/github-stats-advanced?login=simp7)
 
 -------
 # solved.ac
