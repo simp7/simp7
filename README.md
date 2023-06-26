@@ -34,8 +34,7 @@
 
 -------
 # Github stats
-
-![](https://stats.hyochan.dev/api/github-stats-advanced?login=simp7)
+![github stats](https://github-readme-stats.vercel.app/api?username=simp7&show_icons=true&hide_border=False)
 
 -------
 # solved.ac
