@@ -1,6 +1,6 @@
 # Hello!
 
-- 🖥 Current state: Working at Cavea
+- 🖥 Current state: Working at [Cavea](https://github.com/caveakorea)
 - 🌱 I’m currently learning Golang, Typescript(with React Native), postgreSQL, MongoDB.
 - 💪 I'm good at writing maintainable code by making code reusable and easy to understand.
 - 💻 Job offer: I'm now finding a new job! Feel free to contact me via the email below.
