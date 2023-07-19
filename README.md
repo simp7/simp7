@@ -1,6 +1,6 @@
 # Hello!
 
-- 🖥 Current state: Working at [Cavea](https://github.com/caveakorea)
+- 🖥 Current state: Working at [CAVEA](https://github.com/caveakorea)
 - 🌱 I’m currently learning Golang, Typescript(with React Native), postgreSQL, MongoDB.
 - 💪 I'm good at writing maintainable code by making code reusable and easy to understand.
 - 💻 Job offer: I'm now finding a new job! Feel free to contact me via the email below.
@@ -16,11 +16,11 @@
 -------
 # Portfolio
 
-## Cavea
+## CAVEA
 - Cross-platform app that indie aritsts can upload their events. I worked as Frontend.
 - Made with React Native(typescript), and inner tool with golang.
 
-## forgetItNot
+## Forget It Not
 - Cross-platform app that automatically schedule things to review after studying applying Ebbinghaus' forgetting curve.
 - Made with React Native(typescript).
 
