@@ -1,9 +1,9 @@
 # Hello!
 
 - 🖥 Current state: Working at Cavea
-- 🌱 I’m currently learning Golang, Swift, Javascript(with React Native) MongoDB.
-- 💪 As I focus on cleaner and simpler code, I'm interested in refactoring, SOLID, desgin pattern, and TDD.
-- 💻 Job offer: Currently I'm on working, so I wouldn't get job offer currently. Thank you!
+- 🌱 I’m currently learning Golang, Typescript(with React Native), postgreSQL, MongoDB.
+- 💪 I'm good at writing maintainable code by making code reusable and easy to understand.
+- 💻 Job offer: I'm now finding a new job! Feel free to contact me via the email below.
 - 📫 How to reach me: JHParkOfficial@protonmail.com
 
 # Skills
@@ -16,21 +16,21 @@
 -------
 # Portfolio
 
+## Cavea
+- Cross-platform app that indie aritsts can upload their events. I worked as Frontend.
+- Made with React Native(typescript), and inner tool with golang.
+
+## forgetItNot
+- Cross-platform app that automatically schedule things to review after studying applying Ebbinghaus' forgetting curve.
+- Made with React Native(typescript).
+
 ## [nonograminGo](https://github.com/simp7/nonograminGo)
-- Nonogram that can be played in CLI environment.
+- Nonogram that can be played in CLI environment. You can see my  philosophy 
 - Made with golang
 
 ## [times](https://github.com/simp7/times)
 - Package for controlling times that can be used
 - Made with golang
-
-## [wordReminder-core](https://github.com/simp7/wordReminder-core)
-- Core pacakge of word reminder for implementing into serveral platform.
-- Made with golang
-
-## forgetItNot
-- iOS app that automatically schedule things to review after studying.
-- Made with Swift and MongoDB(using Realm)
 
 -------
 # Github stats
@@ -38,5 +38,4 @@
 
 -------
 # solved.ac
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bypro97)](https://solved.ac/bypro97/)
