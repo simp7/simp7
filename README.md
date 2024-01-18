@@ -6,12 +6,17 @@
 - 💻 Job offer: I'm now finding a new job! Feel free to contact me via the email below.
 - 📫 How to reach me: JHParkOfficial@protonmail.com
 
-# Skills
+# Stack
 
-- Language: <img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/> <img alt="Swift" src="https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white"/> <img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/> <img alt="typescript" src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white"/>
-- framework: <img alt="React" src="https://img.shields.io/badge/React Native-blue?logo=React&style=for-the-badge&logoColor=white"/>
-- field: Backend(Server), Frontend(App), CLI
-- Soft skill: OOP, TDD
+- Language
+
+<img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/> <img alt="typescript" src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white"/> <img alt="Swift" src="https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white"/> <img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
+- framework
+
+<img alt="React" src="https://img.shields.io/badge/React Native-blue?logo=React&style=for-the-badge&logoColor=white"/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simp7&layout=compact&theme=dark)
+
 
 -------
 # Portfolio
