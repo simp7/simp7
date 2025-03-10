@@ -15,9 +15,6 @@
 
 <img alt="React" src="https://img.shields.io/badge/React Native-blue?logo=React&style=for-the-badge&logoColor=white"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simp7&layout=compact&theme=dark)
-
-
 -------
 # Portfolio
 
