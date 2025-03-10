@@ -40,9 +40,5 @@
 - Made with golang
 
 -------
-# Github stats
-![github stats](https://github-readme-stats.vercel.app/api?username=simp7&show_icons=true&hide_border=False)
-
--------
 # solved.ac
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bypro97)](https://solved.ac/bypro97/)
