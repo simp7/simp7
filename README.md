@@ -21,6 +21,11 @@
 -------
 # Portfolio
 
+## [goversioninfo-toolkit](https://github.com/simp7/goversioninfo-toolkit)
+- toolkits for handling exe file written in golang with [goversioninfo package](https://github.com/josephspurrier/goversioninfo).
+- exevup: Versioning tool for exe file.
+- Made with golang
+
 ## CAVEA
 - Cross-platform app that indie aritsts can upload their events. I worked as Frontend.
 - Made with React Native(typescript), and inner tool with golang.
