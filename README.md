@@ -1,4 +1,4 @@
-# Hello! ![](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
+# Hello! ![](https://komarev.com/ghpvc/?username=simp7&color=blue)
 
 - 🖥 Current state: I'm currently working on AY Technology.
 - 🌱 I’m currently learning Golang, Typescript(with React Native), postgreSQL, MongoDB.
