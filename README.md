@@ -1,6 +1,6 @@
-# Hello!
+# Hello! ![](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
 
-- 🖥 Current state: I don't have any job now.
+- 🖥 Current state: I'm currently working on AY Technology.
 - 🌱 I’m currently learning Golang, Typescript(with React Native), postgreSQL, MongoDB.
 - 💪 I'm good at writing maintainable code by making code reusable and easy to understand.
 - 💻 Job offer: I'm now finding a new job! Feel free to contact me via the email below.
