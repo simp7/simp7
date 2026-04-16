@@ -54,5 +54,3 @@
 - Made with golang
 
 -------
-# solved.ac
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bypro97)](https://solved.ac/bypro97/)
