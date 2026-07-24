@@ -32,6 +32,10 @@
 -------
 # Portfolio
 
+## [AYTail](https://www.aytechnology.com/docs/detail?id=39586063339520)
+- GUI tool for tracking logs in textfile(like snaketail).
+- Made with Wails(golang + react + typescript)
+
 ## [goversioninfo-toolkit](https://github.com/simp7/goversioninfo-toolkit)
 - toolkits for handling exe file written in golang with [goversioninfo package](https://github.com/josephspurrier/goversioninfo).
 - exevup: Versioning tool for exe file.
